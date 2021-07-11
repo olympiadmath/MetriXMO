@@ -16,10 +16,10 @@ export default function Footer() {
     <>
       <footer className={classes.footer}>
         <Typography variant="h6" align="center" style={{ color: 'black' }} gutterBottom>
-          Ayush CH
+          MMO
         </Typography>
         <Typography variant="subtitle1" align="center" component="p">
-          Personal Blog with lots of amazing articles.
+          Yearly Online Mathematical Olympiad
         </Typography>
         <Copyright />
       </footer>
@@ -32,7 +32,7 @@ function Copyright() {
     <Typography variant="body2" align="center">
       {'Copyright © '}
       <Link color="inherit" href="https://ayushkr.me/">
-        Ayush CH
+       MetriX Mathematical Olympiad
         </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
