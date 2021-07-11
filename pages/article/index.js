@@ -6,7 +6,7 @@ import SubHeader from '../../components/SubHeader';
 export default function Blogs({ data }) {
   return (
     <Layout>
-      <SubHeader title={'Articles'} description={'List of articles.'} />
+      <SubHeader title={'MetriX Mathematical Olympiad'} description={'Information'} />
       <Cards cards={data} loggedIn={false} />
     </Layout>
   )
