@@ -117,7 +117,7 @@ export default function PersistentDrawerLeft() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title} onClick={() => Router.push('/')} button>
-            Ayush CH
+            MMO
           </Typography>
           <IconButton
             edge="end"
