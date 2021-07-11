@@ -7,7 +7,7 @@ const Layout = ({ children, override } = { children: null, override: false }) =>
     <>
         {!override && (
             <Head>
-                <title>Ayush Chowdhury</title>
+                <title>Metrix Mathematical Olympiad</title>
                 <meta data-n-head="ssr" data-hid="og:site_name" property="og:site_name" content="Ayush Chowdhury" />
                 <meta
                     data-n-head="ssr"
