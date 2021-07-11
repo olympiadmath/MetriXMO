@@ -10,7 +10,7 @@ export default function Dashboard({ data }) {
 
   return (
     <Layout>
-      <SubHeader title={'Dashboard'} description={'List of articles.'} />
+      <SubHeader title={'Dashboard'} description={'Previous Year contests.'} />
       <Cards cards={data} loggedIn={true} />
     </Layout>
   )
