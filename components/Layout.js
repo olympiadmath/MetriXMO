@@ -13,13 +13,13 @@ const Layout = ({ children, override } = { children: null, override: false }) =>
                     data-n-head="ssr"
                     data-hid="og:title"
                     property="og:title"
-                    content="Ayush Chowdhury - Enthusiastic developer"
+                    content="MMO"
                 />
                 <meta
                     data-n-head="ssr"
                     data-hid="og:description"
                     property="og:description"
-                    content="Personal Blog with lots of amazing articles."
+                    content="MetriX Mathematical Olympiad"
                 />
                 <meta
                     data-n-head="ssr"
@@ -30,7 +30,7 @@ const Layout = ({ children, override } = { children: null, override: false }) =>
                 <meta data-n-head="ssr" data-hid="og:image:type" property="og:image:type" content="image/png" />
                 <meta data-n-head="ssr" data-hid="og:image:width" property="og:image:width" content="750" />
                 <meta data-n-head="ssr" data-hid="og:image:height" property="og:image:height" content="750" />
-                <meta data-n-head="ssr" data-hid="og:image:alt" property="og:image:alt" content="Ayush Chowdhury" />
+                <meta data-n-head="ssr" data-hid="og:image:alt" property="og:image:alt" content="MMO" />
 
                 <meta name="theme-color" content="#B1A7F0" />
             </Head>
