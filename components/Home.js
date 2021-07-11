@@ -48,10 +48,10 @@ export default function Home() {
               </Grid>
               <Grid item xs={12} sm={6}>
                 <Typography component="h1" variant="h2" align="left" color="textPrimary" gutterBottom>
-                  Ayush CH
+                  MetriX Mathematical Olympiad
                 </Typography>
                 <Typography variant="h5" align="left" color="textSecondary" paragraph>
-                  Hi, I am Ayush Chowdhury. This is my personal blog built with NEXT JS.
+                A single stage Mathematical Olympiad held online: This contest has a similar level and style to International Mathematical Olympiad.
                 </Typography>
                 <Button variant="contained" color="primary" onClick={() => Router.push('/article')}>
                   Explore Articles
